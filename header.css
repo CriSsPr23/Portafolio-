@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    background: #6072ff;
+    color: #fff;
+    padding: 0em 2;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 1em;
+  }
+  
+  h1, h2 {
+    margin: 0.5em 0;
+  }

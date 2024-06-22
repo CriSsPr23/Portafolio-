@@ -1,0 +1,29 @@
+
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin: 0.5em 0 0.2em 0;
+}
+
+input, textarea, button {
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background: #555;
+  }
+  

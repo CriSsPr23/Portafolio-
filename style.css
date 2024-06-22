@@ -1,0 +1,74 @@
+@import "/base.css";
+@import "/header.css";
+@import "/section.css";
+@import "/form.css";
+
+
+
+
+
+
+/*body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+
+}
+
+header {
+  text-align: center;
+  background: #6072ff;
+  color: #fff;
+  padding: 0em 2;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 1em;
+}
+
+h1, h2 {
+  margin: 0.5em 0;
+}
+
+section {
+  padding: 2em;
+  margin: 2em auto;
+  max-width: 800px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin: 0.5em 0 0.2em 0;
+}
+
+input, textarea, button {
+  padding: 0.5em;
+  margin-bottom: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #555;
+}
+*/
+
